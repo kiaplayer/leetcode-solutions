@@ -1,7 +1,7 @@
 package main
 
 func main() {
-
+	// Run tests with "go test ."
 }
 
 func EqualFrequency(word string) bool {
