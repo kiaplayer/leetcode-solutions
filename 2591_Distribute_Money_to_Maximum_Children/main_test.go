@@ -8,7 +8,7 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-func TestMain_EqualFrequency(t *testing.T) {
+func TestMain_DistMoney(t *testing.T) {
 	// arrange
 	testCases := []struct {
 		money    int
